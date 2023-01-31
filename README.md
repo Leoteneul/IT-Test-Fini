@@ -3,4 +3,4 @@ J'ai aussi revu les couleurs pour qu'elles se rapprochent le plus possible de la
 
 j'ai également fait quelques tests pour être sûr que les requetes API fonctionne correctement en rapport avec la saisie user.
 
-(Ajout d'une animation à l'apparition)
+(Ajout d'une animation à l'apparition et un refresh sur le bouton accueil)
